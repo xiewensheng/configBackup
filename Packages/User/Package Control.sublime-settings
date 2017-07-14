@@ -1,0 +1,27 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"1Self",
+		"Autoprefixer",
+		"ChineseLocalizations",
+		"Color Highlighter",
+		"Colorsublime",
+		"CSS Extended Completions",
+		"CSS3",
+		"CSScomb",
+		"Emmet",
+		"HTML-CSS-JS Prettify",
+		"JavaScript Completions",
+		"jQuery",
+		"JsFormat",
+		"Package Control",
+		"SideBarEnhancements",
+		"SublimeCodeIntel",
+		"Tagify",
+		"TrailingSpaces"
+	]
+}
