@@ -6,6 +6,7 @@
 	"installed_packages":
 	[
 		"1Self",
+		"AdvancedNewFile",
 		"Autoprefixer",
 		"ChineseLocalizations",
 		"Color Highlighter",
@@ -21,7 +22,11 @@
 		"Package Control",
 		"SideBarEnhancements",
 		"SublimeCodeIntel",
+		"SublimeLinter",
 		"Tagify",
-		"TrailingSpaces"
+		"TrailingSpaces",
+		"Vue Syntax Highlight",
+		"WakaTime",
+		"YUI Compressor"
 	]
 }

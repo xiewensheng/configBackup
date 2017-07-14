@@ -85,6 +85,8 @@
 			],
 			"file_history":
 			[
+				"/C/Users/19780/.ssh/id_rsa",
+				"/C/Users/19780/.ssh/id_rsa.pub",
 				"/E/Sublime Text 3/Data/Packages/Colorsublime/Colorsublime.sublime-settings",
 				"/E/Sublime Text 3/Data/Packages/User/Colorsublime.sublime-settings",
 				"/C/Users/19780/.codeintel/config.log",
@@ -255,7 +257,7 @@
 				"height": 0.0
 			},
 			"pinned_build_system": "",
-			"position": "0,0,1,-32000,-32000,-1,-1,566,378,27,1209",
+			"position": "0,0,1,-32000,-32000,-1,-1,759,272,220,1103",
 			"project": "",
 			"replace":
 			{
